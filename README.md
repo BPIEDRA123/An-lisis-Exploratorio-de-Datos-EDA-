@@ -4,7 +4,7 @@ Este repositorio contiene un **notebook en Python** que realiza un **Análisis E
 
 ---
 
-## 📂 Contenido del Notebook
+##  Contenido del Notebook
 El archivo principal es:
 
 - `Integrador_17.ipynb` → Notebook con el flujo de trabajo completo.
@@ -32,7 +32,7 @@ Dentro se incluyen los siguientes pasos principales:
 
 ---
 
-## 🛠️ Librerías Utilizadas
+##  Librerías Utilizadas
 El proyecto requiere las siguientes librerías de Python:
 
 - `pandas`, `numpy`
@@ -43,7 +43,7 @@ El proyecto requiere las siguientes librerías de Python:
 
 ---
 
-## ▶️ Ejecución
+##  Ejecución
 Para correr el proyecto:
 
 1. Clonar este repositorio:
@@ -59,10 +59,11 @@ Para correr el proyecto:
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Explorar y analizar imágenes de **nódulos tiroideos**, extrayendo métricas estadísticas y visuales que puedan ayudar en tareas de clasificación **benigno vs maligno**.
 
 ---
 
-## 👩‍💻 Autor
-Kristel Michelle Davila Arguello  
+##  Autor
+Ing. Christian Garcia
+Ing. Byron Piedra
