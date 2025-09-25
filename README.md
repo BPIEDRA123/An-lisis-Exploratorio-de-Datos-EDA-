@@ -1,4 +1,4 @@
-# Proyecto Integrador – Clasificación de Nódulos Tiroideos 🧬
+# Proyecto Integrador – Clasificación de Nódulos Tiroideos 
 
 Este repositorio contiene un **notebook en Python** que realiza un **Análisis Exploratorio de Datos (EDA)** y procesamiento de **imágenes de tiroides**, con el objetivo de explorar características útiles para la clasificación de nódulos **benignos** y **malignos**.
 
